@@ -1,0 +1,20 @@
+{
+  "name": "ecommerceapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mjyothi@mjyothi-Latitude-3420",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "bcrypt": "^5.0.1",
+    "email-validator": "^2.0.4",
+    "express": "^4.18.1",
+    "mongod": "^2.0.0",
+    "mongoose": "^6.6.0",
+    "password-validator": "^5.3.0"
+  }
+}
